@@ -168,7 +168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dontDestroyOnLoad: 0
   canvas: {fileID: 1557808828}
-  obj: {fileID: 3054176290304013638, guid: 9531e3f4fbb25a8409d5d1037b36046c, type: 3}
+  obj: {fileID: 2446779620505291577, guid: 9531e3f4fbb25a8409d5d1037b36046c, type: 3}
   currentinputField: 
   inputField: {fileID: 727738839}
   currentSpawnString: []
